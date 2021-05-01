@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+Cureently studying physics, chemistry and math along with web
+          applications and english <br />
+          I take an active interest in coding and aspire to make it my
+          profession
 <!--
 **moonbansal/moonbansal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
